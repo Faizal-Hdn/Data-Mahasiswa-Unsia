@@ -1,6 +1,6 @@
-# Student Management App
+# Data Nahasiswa Unsia
 
-Student Management App adalah aplikasi Android yang memungkinkan Anda untuk mengelola data mahasiswa dengan mudah. Aplikasi ini dilengkapi dengan fitur login, penambahan data mahasiswa, penghapusan data mahasiswa, dan penyimpanan data menggunakan `SharedPreferences`.
+Aplikasi Android yang memungkinkan Anda untuk mengelola data mahasiswa dengan mudah. Aplikasi ini dilengkapi dengan fitur login, penambahan data mahasiswa, penghapusan data mahasiswa, dan penyimpanan data menggunakan `SharedPreferences`.
 
 ## Fitur
 
