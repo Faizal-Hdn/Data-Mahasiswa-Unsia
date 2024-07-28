@@ -26,3 +26,13 @@ Aplikasi Android yang memungkinkan Anda untuk mengelola data mahasiswa dengan mu
 
 ### Tambah Mahasiswa
 ![Add Student](screenshots/add_student.jpg)
+
+## Kontribusi
+
+Kontribusi sangat terbuka! Silakan fork repository ini dan buat pull request untuk fitur atau perbaikan yang ingin Anda tambahkan.
+
+## Lisensi
+
+Aplikasi ini dilisensikan di bawah MIT License.
+
+Dibuat dengan ❤️ oleh Faizal-Hdn
